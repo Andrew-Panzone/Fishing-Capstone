@@ -46,8 +46,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   textureCaught: {fileID: 2800000, guid: 221d4478168fa4279923eb7fa7089b6e, type: 3}
   spriteCaught: {fileID: 21300000, guid: 221d4478168fa4279923eb7fa7089b6e, type: 3}
-  textureSeen: {fileID: 2800000, guid: a0303b1d910b540b78471151465c6f2b, type: 3}
-  spriteSeen: {fileID: 21300000, guid: a0303b1d910b540b78471151465c6f2b, type: 3}
+  textureSeen: {fileID: 2800000, guid: f1fc876d671d14a33b36f41e3bb57a14, type: 3}
+  spriteSeen: {fileID: 21300000, guid: f1fc876d671d14a33b36f41e3bb57a14, type: 3}
   fishName: Quantum Flashshark
   id: f_2
   description: 2

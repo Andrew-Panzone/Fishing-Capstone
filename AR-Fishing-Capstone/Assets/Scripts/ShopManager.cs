@@ -47,7 +47,7 @@ public class ShopManager : MonoBehaviour
         if (!PlayerPrefs.HasKey("money"))
         {
             Player.money += 1000;
-            PlayerPrefs.SetInt("money", Player.money);
+            Player.saveMoney(Player.money);
         } 
         money.text = "Money: " + Player.money;
     }

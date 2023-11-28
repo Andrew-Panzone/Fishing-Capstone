@@ -46,8 +46,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   textureCaught: {fileID: 2800000, guid: 15b672153596d4c27814e0b72441a08f, type: 3}
   spriteCaught: {fileID: 21300000, guid: 15b672153596d4c27814e0b72441a08f, type: 3}
-  textureSeen: {fileID: 2800000, guid: a0303b1d910b540b78471151465c6f2b, type: 3}
-  spriteSeen: {fileID: 21300000, guid: a0303b1d910b540b78471151465c6f2b, type: 3}
+  textureSeen: {fileID: 2800000, guid: d7ec77909379944419cbb05e62216bbd, type: 3}
+  spriteSeen: {fileID: 21300000, guid: d7ec77909379944419cbb05e62216bbd, type: 3}
   fishName: turquoise tangler
   id: f_14
   description: 14

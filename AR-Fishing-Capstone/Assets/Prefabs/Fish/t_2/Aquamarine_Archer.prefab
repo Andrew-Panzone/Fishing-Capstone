@@ -46,8 +46,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   textureCaught: {fileID: 2800000, guid: 31605a61ab4014caea5db1ae7af59d0b, type: 3}
   spriteCaught: {fileID: 21300000, guid: 31605a61ab4014caea5db1ae7af59d0b, type: 3}
-  textureSeen: {fileID: 2800000, guid: a0303b1d910b540b78471151465c6f2b, type: 3}
-  spriteSeen: {fileID: 21300000, guid: a0303b1d910b540b78471151465c6f2b, type: 3}
+  textureSeen: {fileID: 2800000, guid: 5869980b78d5d4ca481155cc60ad842c, type: 3}
+  spriteSeen: {fileID: 21300000, guid: 5869980b78d5d4ca481155cc60ad842c, type: 3}
   fishName: Aquamarine Archer
   id: f_5
   description: 5

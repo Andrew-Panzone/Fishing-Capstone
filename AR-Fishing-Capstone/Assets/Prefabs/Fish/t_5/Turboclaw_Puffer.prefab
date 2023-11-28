@@ -46,8 +46,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   textureCaught: {fileID: 2800000, guid: 31a439dc5a7e74e6c95112b1b9694375, type: 3}
   spriteCaught: {fileID: 21300000, guid: 31a439dc5a7e74e6c95112b1b9694375, type: 3}
-  textureSeen: {fileID: 2800000, guid: a0303b1d910b540b78471151465c6f2b, type: 3}
-  spriteSeen: {fileID: 21300000, guid: a0303b1d910b540b78471151465c6f2b, type: 3}
+  textureSeen: {fileID: 2800000, guid: a6213deb0b54f4e1b97a8bb2bda7fb94, type: 3}
+  spriteSeen: {fileID: 21300000, guid: a6213deb0b54f4e1b97a8bb2bda7fb94, type: 3}
   fishName: Turboclaw Puffer
   id: f_20
   description: 20

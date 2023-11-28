@@ -46,8 +46,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   textureCaught: {fileID: 2800000, guid: 64cf7ad2b1dc14b7da3d08a2da9aa246, type: 3}
   spriteCaught: {fileID: 21300000, guid: 64cf7ad2b1dc14b7da3d08a2da9aa246, type: 3}
-  textureSeen: {fileID: 2800000, guid: a0303b1d910b540b78471151465c6f2b, type: 3}
-  spriteSeen: {fileID: 21300000, guid: a0303b1d910b540b78471151465c6f2b, type: 3}
+  textureSeen: {fileID: 2800000, guid: 2513574fb14ee412ebf0ebb768617ab2, type: 3}
+  spriteSeen: {fileID: 21300000, guid: 2513574fb14ee412ebf0ebb768617ab2, type: 3}
   fishName: Luminara Angelfish
   id: f_8
   description: 8

@@ -46,8 +46,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   textureCaught: {fileID: 2800000, guid: d36c521a6e511443ea3d73452eeea19d, type: 3}
   spriteCaught: {fileID: 21300000, guid: d36c521a6e511443ea3d73452eeea19d, type: 3}
-  textureSeen: {fileID: 2800000, guid: a0303b1d910b540b78471151465c6f2b, type: 3}
-  spriteSeen: {fileID: 21300000, guid: a0303b1d910b540b78471151465c6f2b, type: 3}
+  textureSeen: {fileID: 2800000, guid: b33720335b6594511aed07b0a34af20b, type: 3}
+  spriteSeen: {fileID: 21300000, guid: b33720335b6594511aed07b0a34af20b, type: 3}
   fishName: Fringefin Lurker
   id: f_7
   description: 7
